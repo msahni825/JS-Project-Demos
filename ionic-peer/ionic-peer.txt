@@ -1,0 +1,2 @@
+ionic 5 angular 9 simple example of video call.
+At the end you can connect two device in same network if the app is running on both of them.
